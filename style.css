@@ -10,7 +10,12 @@ body {
   font-family: 'Open Sans', sans-serif;
   height: 100vh;
 }
-
+.home{
+color: #66FF00;
+}
+.black{
+  color: #FF0000 ;
+}
 p{
   margin-inline-start: 45px;
   margin-inline-end: 55px;
